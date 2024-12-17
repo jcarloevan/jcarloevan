@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Carlo 
-- 👀 I’m interested in Cyber Security and Programming
-- 🌱 I’m currently learning JAVA, C# and Penetration Testing
-- 💞️ I’m looking to collaborate on Java and C# projects.
-- 📫 To reach me, my social media handle is jcarlo.evan on instagram.
+- 👋 Hi, I’m John 
+- 👀 I’m a Cyber Security Analyst
 
 <!---
 jcarloevan/jcarloevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
